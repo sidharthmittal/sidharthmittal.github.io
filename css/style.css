@@ -74,6 +74,7 @@ ol {
 .section-title h2 {
 	display: inline-block;
 	position: relative;
+	font-size: 30px;
 	margin-bottom: 110px;
 	padding-bottom: 2px;
 	line-height: normal;
@@ -81,7 +82,7 @@ ol {
 
 .section-title h2:after {
 	position: absolute;
-	font-size: : 30px;
+	font-size: 30px;
 	content: '';
 	width: 100%;
 	height: 2px;
